@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Resume Tailor Skill Wrapper
+# Usage: tailor-resume <path-to-job-description.txt>
+#   or: tailor-resume (interactive - will prompt for file path)
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PYTHON_SCRIPT="$SCRIPT_DIR/tailor_resume.py"
+
+if [ ! -f "$PYTHON_SCRIPT" ]; then
+    echo "Error: tailor_resume.py not found at $PYTHON_SCRIPT"
+    exit 1
+fi
+
+# If no argument provided, prompt for file
+if [ $# -eq 0 ]; then
+    echo "📋 Resume Tailor"
+    echo "=================="
+    echo ""
+    read -p "Enter path to job description file: " JOB_DESC_PATH
+else
+    JOB_DESC_PATH="$1"
+fi
+
+# Expand ~ to home directory
+JOB_DESC_PATH="${JOB_DESC_PATH/#\~/$HOME}"
+
+# Run the Python script
+python3 "$PYTHON_SCRIPT" "$JOB_DESC_PATH"
