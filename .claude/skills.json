@@ -1,0 +1,7 @@
+{
+  "resume-tailor": {
+    "path": "./skill-staging/resume-tailor",
+    "description": "Tailors a resume to match a specific job description by rewriting highlights and producing a gap analysis",
+    "trigger": "Whenever the user mentions a job description, wants to tailor their resume, or is applying for a role"
+  }
+}

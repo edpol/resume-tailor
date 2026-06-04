@@ -1,0 +1,5 @@
+applications/
+*.pyc
+__pycache__/
+.DS_Store
+*.docx~
