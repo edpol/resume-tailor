@@ -72,24 +72,26 @@ Read the JD carefully and identify:
 If the user also provided recruiter notes or requested changes, extract any additional
 signals from those (e.g., "they want to see mentorship", "add PHP version numbers").
 
-### Step 2 -- Fetch the master resume and relevant project summaries
+### Step 2 -- Fetch the master resume and relevant project summaries (MANDATORY)
 
-```
-tool: mcp__282d0cdf-c0a5-4c69-a93f-07d03ceb85ed__read_file_content
-args: { "fileId": "15DLEOd_tWSi1OzQLaby-qxXkJxXLH__rXqTmGoPraI0" }
-```
+Fetch master resume first (fallback: read local markdown copy).
 
-Then read the 1-2 project summary files most relevant to this JD from
-`{SKILL_DIR}/assets/projects/`. Examples:
-- PHP/e-commerce role: `summary-shore-excursions.md` and `summary-medical-doctors-research.md`
-- Laravel/SaaS role: `summary-insurance-care-direct.md` and `summary-shore-excursions.md`
-- AWS/automation role: `summary-medical-doctors-research.md`
+**Then ALWAYS read the 1-2 most relevant project summary files from `{SKILL_DIR}/assets/projects/`.**
+This is where the specific metrics, accomplishments, and technology details live that will power your highlights.
 
-> **Note on SKILL_DIR:** The base directory is printed at the top of the skill instructions
-> when it loads. Capture it in bash as:
-> ```bash
-> SKILL_DIR="/var/folders/.../skills/resume-tailor"
-> ```
+Available project summaries:
+- `summary-shore-excursions.md` -- Shore Excursions Group (2019-2024): Laravel lead management, API integrations, payment processing
+- `summary-medical-doctors-research.md` -- Medical Doctors Research (2018-2019, 2024-Present): AWS automation, commission systems, database migrations
+- `summary-insurance-care-direct.md` -- Insurance Care Direct (2019): Laravel/Vue.js SaaS application
+- `summary-feeduciary.md` -- Feeduciary.com freelance (2018): Laravel marketplace, Google Maps API
+
+**Selection guide:**
+- PHP/e-commerce/payment role: Shore Excursions + Medical Doctors Research
+- Laravel/SaaS role: Insurance Care Direct + Shore Excursions
+- AWS/automation/infrastructure role: Medical Doctors Research
+- Full-stack role: Shore Excursions + Medical Doctors Research
+
+Read these files in full—they contain specific metrics (76% cost reduction, 50% revenue increase, 10+ hours saved, etc.) that will go into the highlights.
 
 ### Step 3 -- Gap analysis (show this to the user)
 
@@ -127,14 +129,15 @@ Rewrite all 5 bullets in the HIGHLIGHTS section using the XYZ formula where appl
 - Think: "Why hire Edward for this one thing?" not "Here's everything Edward knows"
 
 The rewrite must:
+- **Use specific metrics from the project summaries** (76% cost reduction, 50% revenue increase, 10+ hours saved, etc.)
 - Naturally incorporate the 1-2 highest priority JD keywords
 - Mirror the JD's phrasing where appropriate
-- Reference specific metrics when critical (%, cost savings, scale)
+- Reference actual accomplishments from the projects (Shore Excursions, Medical Doctors Research, etc.)
 - Use no em dashes (use commas, colons, or restructure instead)
 - Never fabricate skills or experience
 
 The HIGHLIGHTS section answers: "Why should this specific employer hire Edward?"
-Lead with what the JD cares most about, but say it in 1-2 punchy sentences.
+Use proof points from your actual project work. Lead with what the JD cares most about, but back it up with real metrics.
 
 Do NOT touch anything outside the HIGHLIGHTS section.
 
