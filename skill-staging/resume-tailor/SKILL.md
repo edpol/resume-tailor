@@ -151,22 +151,23 @@ Do NOT touch anything outside the HIGHLIGHTS section.
 
 The second version is punchy and keyword-dense. The first is a snoozefest.
 
-### Step 4.5 -- Format tailored resume to match master resume
+### Step 4.5 -- Format tailored resume to match master resume (.docx format)
 
 After rewriting highlights, use the formatting script to apply them to the master resume while preserving all formatting, structure, and layout:
 
 ```bash
-python3 {SKILL_DIR}/scripts/format_tailored_resume.py \
-  "{SKILL_DIR}/assets/master_resume.md" \
-  "<output_path_tailored_resume>" \
+python3 {SKILL_DIR}/scripts/format_tailored_resume_docx.py \
+  "{SKILL_DIR}/assets/master_resume.docx" \
+  "<output_path_tailored_resume.docx>" \
   "highlight_1" "highlight_2" "highlight_3" "highlight_4" "highlight_5"
 ```
 
-This ensures:
-- Exact match to master resume format
-- No accidental reformatting or structural changes
+**IMPORTANT:** 
+- Output MUST be `.docx` format (matching master resume)
+- Script preserves all Word formatting, fonts, styling from master
 - Only the 5 HIGHLIGHTS bullets are replaced
-- All other sections (PROFESSIONAL EXPERIENCE, EDUCATION, SKILLS) remain unchanged
+- All other sections remain unchanged
+- Never output as .md or .txt -- always .docx
 
 ### Step 5 -- Save to Google Drive
 
