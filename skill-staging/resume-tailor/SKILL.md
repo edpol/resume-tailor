@@ -114,23 +114,42 @@ should consider updating in the experience bullets or skills section.
 
 Keep the tone direct and useful. This is a working document, not an essay.
 
-### Step 4 -- Rewrite the highlights (XYZ formula)
+### Step 4 -- Rewrite the highlights (XYZ formula, concise)
 
 Rewrite all 5 bullets in the HIGHLIGHTS section using the XYZ formula where applicable:
 "Accomplished [X] as measured by [Y], by doing [Z]."
 
+**Conciseness rule (STRICT):**
+- Each highlight must be **one sentence or less** (aim for 15-20 words)
+- Lead with one strong verb (Architected, Delivered, Reduced, Led, Built, etc.)
+- One key insight or value proposition per bullet
+- If it won't fit on one line comfortably, delete the least important detail
+- Think: "Why hire Edward for this one thing?" not "Here's everything Edward knows"
+
 The rewrite must:
-- Naturally incorporate the missing high-priority JD keywords
+- Naturally incorporate the 1-2 highest priority JD keywords
 - Mirror the JD's phrasing where appropriate
-- Lead with strong action verbs
-- Reference specific metrics and accomplishments from the actual resume and project summaries
+- Reference specific metrics when critical (%, cost savings, scale)
 - Use no em dashes (use commas, colons, or restructure instead)
 - Never fabricate skills or experience
 
 The HIGHLIGHTS section answers: "Why should this specific employer hire Edward?"
-Lead with what the JD cares most about.
+Lead with what the JD cares most about, but say it in 1-2 punchy sentences.
 
 Do NOT touch anything outside the HIGHLIGHTS section.
+
+**Example of good vs. bad:**
+
+❌ **TOO VERBOSE:**
+"Backend engineer with 10+ years of PHP/Laravel experience architecting and optimizing scalable production systems, demonstrated by rebuilding manual operations into automated platforms that reduced processing time by 50% and increased revenue by 50%."
+
+✅ **CONCISE:**
+"10+ years PHP/Laravel expertise delivering backend systems that reduced operational cost by 50% and increased revenue by 50%."
+
+✅ **ALSO GOOD:**
+"Skilled in trading system architecture, broker API integrations, and execution optimization using PHP, Laravel, MySQL, and AWS."
+
+The second version is punchy and keyword-dense. The first is a snoozefest.
 
 ### Step 4.5 -- Format tailored resume to match master resume
 
