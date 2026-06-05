@@ -5,11 +5,11 @@ edpol03@gmail.com | 305-215-5503 | Hollywood, FL | linkedin.com/in/EdwardPol
 
 **HIGHLIGHTS**
 
-* Backend engineer with 10+ years of PHP/Laravel experience architecting and optimizing scalable production systems, demonstrated by rebuilding manual operations into automated platforms that reduced processing time by 50% and increased revenue by 50%.
-* Expert in third-party API integrations and financial system architecture, having integrated Braintree's payment gateway for foreign currency processing, built RESTful and SOAP-based vendor integrations, and designed high-traffic database schemas supporting millions of transactional records.
-* Proficient in performance optimization and execution reliability across complex systems, applying MySQL query tuning, event-driven automation (AWS Lambda/EventBridge), and infrastructure-as-code practices (Docker, Nginx) to reduce infrastructure costs by 76% and eliminate manual operational bottlenecks.
-* Skilled in operational tooling and data-driven reporting, having built automated dashboards, commission tracking systems, and real-time intranet platforms that transformed manual data compilation into on-demand analytics for stakeholders.
-* Versatile full-stack engineer comfortable across backend systems, database architecture, and infrastructure, with proven ability to rapidly master new domains (migrated Oracle CRM to AWS with zero downtime, led cross-functional teams of 3+, and delivered production systems under tight deadlines).
+* 10+ years PHP/Laravel backend engineering delivering trading systems, APIs, and database optimization.
+* Expert in broker API integrations, third-party payment systems (Braintree), and execution-critical infrastructure.
+* Proven track record: 76% cost reduction (AWS optimization), 50% faster operations, MySQL query tuning for high-traffic systems.
+* Designed operational dashboards, automation pipelines, and real-time reporting tools eliminating manual processes.
+* Rapidly masters financial domains: payment processing, commission logic, multi-vendor integrations, zero-downtime migrations.
 
 **PROFESSIONAL EXPERIENCE**  
 **Medical Doctors Research**  
