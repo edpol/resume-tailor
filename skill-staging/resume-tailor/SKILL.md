@@ -132,6 +132,23 @@ Lead with what the JD cares most about.
 
 Do NOT touch anything outside the HIGHLIGHTS section.
 
+### Step 4.5 -- Format tailored resume to match master resume
+
+After rewriting highlights, use the formatting script to apply them to the master resume while preserving all formatting, structure, and layout:
+
+```bash
+python3 {SKILL_DIR}/scripts/format_tailored_resume.py \
+  "{SKILL_DIR}/assets/master_resume.md" \
+  "<output_path_tailored_resume>" \
+  "highlight_1" "highlight_2" "highlight_3" "highlight_4" "highlight_5"
+```
+
+This ensures:
+- Exact match to master resume format
+- No accidental reformatting or structural changes
+- Only the 5 HIGHLIGHTS bullets are replaced
+- All other sections (PROFESSIONAL EXPERIENCE, EDUCATION, SKILLS) remain unchanged
+
 ### Step 5 -- Save to Google Drive
 
 Call the Python script to automatically organize and upload files to Google Drive:
@@ -175,5 +192,8 @@ Ask if they want any adjustments to the highlights.
 - **One section only.** Only the HIGHLIGHTS bullets change. Do not touch experience
   bullets, skills, education, or contact info -- even if you notice issues.
 - **Master resume is read-only.** Fetch it from Drive but never modify it. Always write
-  tailored output to a new Google Doc.
+  tailored output to a new file.
+- **Preserve format permanently.** The `format_tailored_resume.py` script (Step 4.5)
+  ensures every tailored resume matches the master resume's exact structure and layout.
+  This is non-negotiable -- always use it.
 - **No em dashes anywhere** -- not in bullets, gap analysis, or any other output.
