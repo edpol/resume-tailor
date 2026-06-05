@@ -213,7 +213,7 @@ Ask if they want any adjustments to the highlights.
   bullets, skills, education, or contact info -- even if you notice issues.
 - **Master resume is read-only.** Fetch it from Drive but never modify it. Always write
   tailored output to a new file.
-- **Preserve format permanently.** The `format_tailored_resume.py` script (Step 4.5)
+- **Preserve format permanently.** The `format_tailored_resume_docx.py` script (Step 4.5)
   ensures every tailored resume matches the master resume's exact structure and layout.
-  This is non-negotiable -- always use it.
+  Output MUST be `.docx` format. This is non-negotiable -- always use it.
 - **No em dashes anywhere** -- not in bullets, gap analysis, or any other output.
