@@ -14,6 +14,13 @@ import zipfile
 import xml.etree.ElementTree as ET
 import subprocess
 
+# Try to import Claude API
+try:
+    from anthropic import Anthropic
+    HAS_CLAUDE_API = True
+except ImportError:
+    HAS_CLAUDE_API = False
+
 # Configuration
 MASTER_RESUME_PATH = Path('/Users/edpol/Documents/Claude/Projects/Resume/Edward_Pol-Resume.docx')
 HISTORY_FOLDER = Path('/Users/edpol/Documents/Claude/Projects/Resume/history')
@@ -71,15 +78,30 @@ def read_history_files():
                 history_text += f.read() + "\n\n"
     return history_text
 
-def extract_company_name(job_desc):
+def extract_company_name(job_desc, filename_fallback=None):
     """Extract company name from job description or filename"""
     lines = job_desc.split('\n')
+
+    # Check if first non-empty line is a capitalized word (likely company name)
+    for line in lines[:3]:
+        line = line.strip()
+        if line and len(line) < 30 and line[0].isupper() and not ' ' in line:
+            return line.rstrip(':,.')
+
+    # Look for "About the company" or similar patterns
     for line in lines[:20]:
         if 'company' in line.lower() or 'hiring' in line.lower():
             words = line.split()
             for word in words:
-                if word[0].isupper() and len(word) > 2:
+                if word[0].isupper() and len(word) > 2 and word.lower() not in ['about', 'the', 'company']:
                     return word.rstrip(':,.')
+
+    # If not found in content, use filename (e.g., "Nurp-Job_Description.txt" -> "Nurp")
+    if filename_fallback:
+        stem = filename_fallback.stem
+        company = stem.split('-')[0].replace('_', '')
+        if company:
+            return company
     return None
 
 def extract_keywords(job_desc):
@@ -152,6 +174,46 @@ def generate_highlights(matches, job_desc_text):
     ]
 
     return [h['text'] for h in sorted(highlight_ideas, key=lambda x: x['match_score'], reverse=True)[:4]]
+
+def generate_cover_letter(company_name, job_desc, keywords, resume_text):
+    """Generate a personalized cover letter using Claude API"""
+    if not HAS_CLAUDE_API:
+        return None
+
+    try:
+        client = Anthropic()
+
+        prompt = f"""Write a short, professional cover letter for Edward Pol applying to a position at {company_name}.
+
+Job Description:
+{job_desc[:1500]}
+
+Key Keywords from Job: {', '.join(keywords[:10])}
+
+Resume Highlights:
+{resume_text[:800]}
+
+Requirements:
+- 3-4 short paragraphs
+- Address hiring manager as "Hiring Manager"
+- Open with enthusiasm for the role and company
+- Highlight 2-3 relevant skills from the job keywords that match Edward's background
+- Close with call to action
+- Professional but personable tone
+- Keep it concise (under 250 words)"""
+
+        message = client.messages.create(
+            model="claude-opus-4-8",
+            max_tokens=1024,
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+
+        return message.content[0].text
+    except Exception as e:
+        print(f"Warning: Could not generate cover letter: {e}")
+        return None
 
 def extract_docx_styling(docx_path):
     """Extract fonts, colors, and styles from master resume"""
@@ -450,9 +512,7 @@ def main():
     resume_text = extract_text_from_docx(MASTER_RESUME_PATH)
     history_text = read_history_files()
 
-    company_name = extract_company_name(job_desc)
-    if not company_name:
-        company_name = job_desc_path.stem.replace('_', ' ').replace('-', ' ').replace('Job', '').strip()
+    company_name = extract_company_name(job_desc, job_desc_path)
 
     print(f"🏢 Company: {company_name}")
 
@@ -486,6 +546,16 @@ def main():
     gap_analysis = create_gap_analysis(job_desc, resume_text, history_text, company_folder)
     print(f"   Gap analysis saved: {company_folder / 'gap_analysis.md'}")
 
+    print("✍️  Generating cover letter...")
+    cover_letter = generate_cover_letter(company_name, job_desc, keywords, resume_text)
+    if cover_letter:
+        cover_letter_path = company_folder / 'cover_letter.txt'
+        with open(cover_letter_path, 'w') as f:
+            f.write(cover_letter)
+        print(f"   Cover letter saved: {cover_letter_path}")
+    else:
+        print("   ⚠️  Could not generate cover letter (Claude API not available)")
+
     print("\n" + "="*50)
     print(f"✅ Application materials ready for: {company_name}")
     print("="*50)
@@ -494,6 +564,8 @@ def main():
     print(f"   - Edward_Pol-Resume.docx (master resume with highlights)")
     print(f"   - job_description.txt")
     print(f"   - gap_analysis.md")
+    if cover_letter:
+        print(f"   - cover_letter.txt")
     print(f"\n📋 Keywords found: {', '.join(keywords[:10])}")
     print(f"\n✨ Highlights generated: {len(highlights)}")
     print("="*50)

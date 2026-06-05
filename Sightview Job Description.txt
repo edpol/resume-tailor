@@ -1,0 +1,49 @@
+Sightview
+Software Engineer III (Lead PHP) - US (Remote)
+
+Remote- Tampa, Florida, United States
+
+Full - Time
+
+Job Description
+About the role:
+We are seeking a Software Engineer to lead the design, development, and delivery of a services-oriented engineering team focused on system integrations and external connectivity.
+
+This role combines hands-on development, technical leadership, and team management responsibilities, guiding a group of engineers in building services that connect our applications to external systems and third-party platforms. These services act as a critical layer between our core applications and external dependencies, requiring strong attention to reliability, data integrity, performance, and contract-driven design.
+The ideal candidate brings deep technical expertise, a strong sense of ownership, and the ability to lead both people and technical direction to deliver robust, scalable integration solutions.
+Key Responsibilities:
+· Technical Leadership: Provide technical direction for the team, guidingarchitecture, design decisions, and implementation approaches.
+· Team Leadership & Management: Manage and support a team of engineers, including task alignment, coaching, performance feedback, and day-to-day guidance.
+· Integration & Services Design: Lead the design of services that enable communication between internal applications and external systems, ensuring clear contracts, reliability, and scalability.
+· Service Architecture: Define and establish service architecture, patterns, and best practices for integrations and external connectivity.
+· Delivery Ownership: Ensure work is well-defined, properly scoped, and delivered with high quality and predictability.
+· System Reliability: Establish and enforce best practices for error handling, retries, monitoring, and fault tolerance across service integrations.
+· Data Integrity & Contracts: Define and maintain strong data contracts, ensuring accurate, secure, and consistent data exchange between systems.
+· Code Quality: Set and uphold a high bar for code quality through reviews, standards, and best practices.
+· Mentorship: Mentor and develop engineers, supporting their technical growth and career progression
+· Cross-Team Collaboration: Partner with Product, Engineering, and external stakeholders to align on requirements, dependencies, and delivery timelines.
+· Continuous Improvement: Identify and implement improvements in engineering practices, tooling, and service architecture.
+
+Skills and qualifications (mandatory):
+· 5+ years of professional experience in PHP development
+· Strong proficiency in PHP and experience with modern PHP frameworks (preferably Laravel)
+· Proven experience designing and building services and APIs
+· Strong experience with system integrations, including connecting applications to external services or third-party platforms
+· Experience designing service-to-service communication patterns (synchronous and asynchronous)
+· Solid understanding of data contracts, API design, and data transformation
+· Experience with error handling, retries, idempotency, and fault tolerance in distributed systems
+· Strong understanding of unit testing and quality practices
+· Experience with version control systems (e.g., Git), CI/CD pipelines, Containerized deployment models (Docker)
+· Strong analytical, debugging, and problem-solving skills
+· Excellent communication skills and ability to influence technical decisions
+· Prior experience leading or managing engineers
+· Ability to operate with high autonomy and drive outcomes
+ 
+Skills and qualifications (preferred):
+· Experience with event-driven or message-based architectures
+· Experience working with high-volume, transactional systems
+· Experience with AWS technologies and hosting (ECS, Aurora, SQS)
+· Familiarity with monitoring, logging, and observability practices
+· Experience working in healthcare, SaaS, or regulated environments
+· Experience defining or evolving integration standards and patterns
+· Bachelor’s degree in Computer Science, Engineering, or related field

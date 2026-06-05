@@ -1,0 +1,66 @@
+Nurp
+Software Engineer
+
+About the job
+Position Summary
+
+Nurp is seeking a Software Engineer to help expand and enhance the infrastructure powering our algorithmic trading ecosystem, copy trading technology, and internal platform operations. This role will focus heavily on backend engineering, trading system integrations, execution optimization, and development of advanced functionality within our proprietary platform, app.nurp.
+
+The ideal candidate is a technically strong engineer who enjoys building scalable financial technology systems and solving complex operational and trading related challenges. Candidates with prior exposure to financial markets, broker integrations, trading infrastructure, or fintech products will be strongly preferred, as this role directly contributes to the evolution of Nurp's trading technology stack.
+
+This role is located in Miami as a hybrid, in-office position (3 days in the office).This position offers a competitive annual salary ranging from $100,000 to $140,000 plus a 10% to 20% annual performance based bonus.
+
+About The Company
+
+Nurp builds smart trading algorithms that help people trade more effectively across multiple markets, including FX, Commodities and Crypto. We're reshaping the way people invest by using powerful, data-driven technology instead of outdated methods. At Nurp, we're focused on growth, both in the markets we serve and in the people we hire. This is a place for driven, results-oriented individuals who want to take ownership, learn quickly, and make an impact. You'll work alongside a talented team, contribute to meaningful projects, and help shape the future of algorithmic trading. We move fast and wear many hats, creating constant opportunities for personal and professional growth.
+
+Responsibilities
+
+Lead ongoing development, optimization, and maintenance of the Nurp native platform, ensuring platform stability, scalability, and performance across customer facing and internal systems.
+Build and enhance copy trading infrastructure.
+Improve execution quality, trade synchronization, and operational reliability across existing algorithmic trading systems and copy trading infrastructure.
+Develop advanced functionality within the Nurp licensing portal.
+Integrate and maintain broker APIs to support multi broker compatibility and cross broker deployment.
+Architect and maintain scalable backend systems and trading product integrations.
+Build data-driven operational dashboards and reporting tools to track platform performance and engagement, while proactively monitoring, troubleshooting, and optimizing backend systems to ensure high security and reliability.
+Collaborate cross functionally to prioritize technical initiatives and deliver scalable solutions aligned with business objectives.
+Perform other related duties as necessary or assigned.
+
+KEY COMPETENCIES
+
+Trading Systems Engineering: Strong understanding of trading infrastructure, broker connectivity, execution systems, and real time financial application workflows.
+Backend Engineering Expertise: Strong understanding of backend application architecture, database systems, API integrations, and scalable platform development.
+Financial & Trading Product Understanding: Understanding of financial markets, trading systems, risk management concepts, and fintech products.
+Problem Solving & Critical Thinking: Ability to diagnose technical issues, improve operational systems, optimize trading workflows, and deliver scalable engineering solutions.
+Technical Versatility: Comfortable working across backend systems, infrastructure management, API integrations, operational tooling, and frontend support initiatives when necessary.
+Cross Functional Collaboration: Ability to communicate effectively with technical and non technical stakeholders across Product, Operations, Marketing, and Leadership teams.
+Ownership Mentality: Self motivated individual capable of managing priorities independently while maintaining strong execution standards in a fast moving environment.
+
+Education And Experience
+
+Minimum 5 years of experience building and maintaining production level software applications.
+Strong proficiency in PHP, Laravel, and backend web application development.
+Experience working with MySQL, relational databases, and server side application architecture.
+Strong proficiency in HTML, CSS, and JavaScript.
+Experience with APIs, third party integrations, and operational platform systems.
+Familiarity with infrastructure tools, including Cloudflare, DNS systems, CDN services, and hosting environments.
+Experience with WordPress and Elementor is considered a plus.
+Strong analytical, debugging, and problem solving skills.
+A Master's degree in Computer Science, Software Engineering, or a related technical field (Preferred).
+Prior experience within fintech, financial services, trading technology, or capital markets environments (Preferred).
+
+Benefits
+
+Hybrid schedule
+Health insurance.
+Dental insurance.
+Vision Insurance.
+Voluntary Life Insurance.
+Paid Time Off.
+Access to our product and services at significant discounts and, in some instances, free
+
+COMMITMENT TO DIVERSITY
+
+Nurp is an equal opportunity employer committed to fostering an inclusive and diverse workforce. We encourage applicants from all backgrounds to apply, regardless of race, color, religion, age, national origin, gender, gender identity, sexual orientation, or disability.
+Benefits found in job post
+Vision insurance, Medical insurance, Dental insurance

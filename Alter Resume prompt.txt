@@ -1,0 +1,48 @@
+Act as an expert technical recruiter and resume writer. Please perform a two-part analysis and revision.
+
+Part 1: Gap Analysis
+Analyze the Job Description for key technical skills, tools, and soft skills. Compare these against my resume and projects. Identify where I am lacking experience or where my resume is weak. List the top 5-7 keywords/skills I am missing.
+
+Part 2: Highlight Section Revision
+Copy the master resume and replace the Highlight place holders with 3 to 5 bullet points to better align with the keywords from the job description. 
+
+You can look in my resume and in Users/edpol/Documents/Claude/Projects/Resume/history folder to find examples for the highlights
+
+Use the XYZ formula (Accomplished [X] as measured by [Y], by doing [Z]). Only use my actual experience, but rephrase it to sound strategic and impact-oriented, incorporating the exact technical keywords. 
+
+Don't sound like AI wrote it and try to keep it short.
+
+Constraints:
+Do not make up skills or experiences I do not have.
+Focus on action-oriented verbs.
+Ensure the final output is in a clean, ATS-friendly format.
+
+Output:
+In Google Drive Jobs folder, create a folder named after the company and place the new resume, the gap analysis and the job description inside.  
+
+
+I tried this in Claude Code
+Inputs: 
+	master resume file (/Users/edpol/Documents/Claude/Projects/Resume/Edward_Pol-Resume.docx), 
+	a file containing the job description, in txt format
+	History folder containing old projects - Users/edpol/Documents/Claude/Projects/Resume/history
+
+Outputs:
+	First extract keywords from the job description
+	Then look in my resume and the history folder to choose 4 highlights that use the keywords
+
+	create a folder named after the company name in the job description or in the file name, and place it here 
+	/Users/edpol/Documents/Claude/Projects/Resume/applications
+	create a copy of the master resume and replace the placeholders {{HIGHLIGHT_1}} to 5 with the new highlight bullet points
+	save the new resume and job description here
+
+	Now do a gap analysis and place it in same folder. Use tables and narrative when appropriate.
+
+Constraints:
+	Don't sound like AI wrote it and try to keep it short.
+	Do not make up skills or experiences I do not have.
+	Focus on action-oriented verbs.
+	Ensure the final output is in a clean, ATS-friendly format.
+
+one command runs the whole pipeline
+
