@@ -2,7 +2,7 @@
   "mcpServers": {
     "google-drive": {
       "command": "npx",
-      "args": ["-y", "@anthropic-ai/mcp-server-google-drive"]
+      "args": ["-y", "@piotr-agier/google-drive-mcp"]
     }
   }
 }
