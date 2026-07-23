@@ -58,6 +58,11 @@ This error has occurred 10+ times. This checklist prevents it from happening aga
 
 **When to use**: Mention a job description, say you're applying for a role, or ask to tailor your resume for a specific position. The skill can be invoked with `/resume-tailor`.
 
+**Output Naming Convention**:
+- Tailored resume: `Edward_Pol-<CompanyName>.docx` (e.g., `Edward_Pol-KForce.docx`)
+- Gap analysis: `Gap_Analysis-<CompanyName>-<RoleTitle>.doc`
+- Job description: `Job_Description-<CompanyName>-<RoleTitle>.txt`
+
 **Key features**:
 - No em-dashes in output (uses commas and colons instead)
 - Action-oriented bullet points with strong verbs
