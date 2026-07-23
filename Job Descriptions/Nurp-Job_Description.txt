@@ -6,13 +6,13 @@ Position Summary
 
 Nurp is seeking a Software Engineer to help expand and enhance the infrastructure powering our algorithmic trading ecosystem, copy trading technology, and internal platform operations. This role will focus heavily on backend engineering, trading system integrations, execution optimization, and development of advanced functionality within our proprietary platform, app.nurp.
 
-The ideal candidate is a technically strong engineer who enjoys building scalable financial technology systems and solving complex operational and trading related challenges. Candidates with prior exposure to financial markets, broker integrations, trading infrastructure, or fintech products will be strongly preferred, as this role directly contributes to the evolution of Nurp's trading technology stack.
+The ideal candidate is a technically strong engineer who enjoys building scalable financial technology systems and solving complex operational and trading related challenges. Candidates with prior exposure to financial markets, broker integrations, trading infrastructure, or fintech products will be strongly preferred, as this role directly contributes to the evolution of Nurp’s trading technology stack.
 
 This role is located in Miami as a hybrid, in-office position (3 days in the office).This position offers a competitive annual salary ranging from $100,000 to $140,000 plus a 10% to 20% annual performance based bonus.
 
 About The Company
 
-Nurp builds smart trading algorithms that help people trade more effectively across multiple markets, including FX, Commodities and Crypto. We're reshaping the way people invest by using powerful, data-driven technology instead of outdated methods. At Nurp, we're focused on growth, both in the markets we serve and in the people we hire. This is a place for driven, results-oriented individuals who want to take ownership, learn quickly, and make an impact. You'll work alongside a talented team, contribute to meaningful projects, and help shape the future of algorithmic trading. We move fast and wear many hats, creating constant opportunities for personal and professional growth.
+Nurp builds smart trading algorithms that help people trade more effectively across multiple markets, including FX, Commodities and Crypto. We’re reshaping the way people invest by using powerful, data-driven technology instead of outdated methods. At Nurp, we’re focused on growth, both in the markets we serve and in the people we hire. This is a place for driven, results-oriented individuals who want to take ownership, learn quickly, and make an impact. You’ll work alongside a talented team, contribute to meaningful projects, and help shape the future of algorithmic trading. We move fast and wear many hats, creating constant opportunities for personal and professional growth.
 
 Responsibilities
 
@@ -46,7 +46,7 @@ Experience with APIs, third party integrations, and operational platform systems
 Familiarity with infrastructure tools, including Cloudflare, DNS systems, CDN services, and hosting environments.
 Experience with WordPress and Elementor is considered a plus.
 Strong analytical, debugging, and problem solving skills.
-A Master's degree in Computer Science, Software Engineering, or a related technical field (Preferred).
+A Master’s degree in Computer Science, Software Engineering, or a related technical field (Preferred).
 Prior experience within fintech, financial services, trading technology, or capital markets environments (Preferred).
 
 Benefits

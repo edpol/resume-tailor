@@ -1,0 +1,91 @@
+Wisestep
+Software Engineer – AI Code Evaluation & Benchmarking (SWE-Bench)
+
+
+Hi Edward Pol,
+
+As discussed, I am submitting your profile for the position Software Engineer – AI Code Evaluation & Benchmarking (SWE-Bench) with Turing.
+
+Rate: USD 32 Per Hour
+
+Work Authorization: US Citizen
+
+Work Location: remote
+
+For your reference, I have included the job description in the Annexure. Please review the details and provide your acceptance of the Representation to Recruit (RTR) by Clicking on Accept RTR.
+
+Note on Data Privacy:
+
+Your personal data will be processed in accordance with applicable data protection laws, including GDPR (if applicable). The data is shared solely for recruitment purposes and with Turing as required. If you have any concerns or wish to withdraw your consent, please notify us.
+
+
+
+
+Annexure
+
+Job Title: Software Engineer – AI Code Evaluation & Benchmarking (SWE-Bench)
+Job Location: , null
+Job Type : Contract
+
+Role Overview
+
+We are looking for experienced Software Engineers to help evaluate, benchmark, and improve the coding capabilities of frontier AI models. In this role, you will assess AI-generated code, validate solutions against real-world software engineering tasks, identify correctness and quality issues, and contribute to the development of high-quality evaluation datasets and benchmarks.
+
+This position is ideal for engineers who enjoy code review, debugging, problem-solving, and applying strong software engineering judgment to complex technical scenarios. Your work will directly contribute to measuring and improving the performance of advanced AI coding systems.
+
+What Does Day-to-Day Look Like?
+
+Review and evaluate AI-generated code for correctness, efficiency, maintainability, and adherence to requirements.
+
+Analyze software engineering tasks and validate whether proposed solutions meet expected outcomes.
+
+Debug code, reproduce issues, and verify fixes across different programming environments.
+
+Assess model-generated explanations, reasoning, and implementation approaches for technical accuracy.
+
+Create, refine, and maintain evaluation datasets, benchmarks, and grading rubrics for coding tasks.
+
+Identify edge cases, failure modes, and areas where AI systems struggle with software engineering problems.
+
+Document findings clearly and provide structured feedback to improve evaluation quality and consistency.
+
+Collaborate with project teams to establish quality standards and evaluation methodologies.
+
+Requirements
+
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical field.
+
+3+ years of professional software engineering experience.
+
+Strong proficiency in two or more of the following languages: Python, Java, C/C++, Go, Swift, Objective-C, PHP, or SQL.
+
+Strong understanding of data structures, algorithms, software design principles, and debugging methodologies.
+
+Experience performing code reviews and evaluating code quality in production or large-scale codebases.
+
+Ability to analyze complex technical problems and assess solution correctness with minimal supervision.
+
+Familiarity with version control systems (e.g., Git) and modern software development workflows.
+
+Strong written communication skills and attention to detail.
+
+Experience with AI/ML data annotation, NLP, prompt engineering, model evaluation, or LLM-related projects is a plus.
+
+Experience evaluating AI-generated code, benchmark creation, or software quality assessment is highly preferred.
+
+Work in a fully remote environment.
+
+Opportunity to work on cutting-edge AI projects with leading LLM companies.
+
+Offer Details
+
+Commitments Required: At least 4 hours per day and minimum 20 hours per week with overlap of 4 hours with PST.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,103 @@
+Sound Income Group
+Web Developer 
+Fort Lauderdale, FL 
+
+About the job
+Description
+
+POSITION: WordPress Full Stack Developer
+
+Location: Fort Lauderdale – HQ
+
+FLSA Classification: Exempt
+
+Who We Are
+
+At Sound Income Group, our mission is to help independent financial professionals and their clients thrive, especially those approaching or in retirement. We provide a full suite of resources across financial education, investment strategies, marketing, and practice management to support long-term success.
+
+We foster a collaborative, performance-driven culture rooted in integrity, innovation, and service. If you’re enthusiastic about making a measurable impact in the financial services space, we invite you to grow with us.
+
+Position Summary
+
+The WordPress Full Stack Developer serves as a technical architect and strategist for our digital ecosystem, bridging the gap between complex backend functionality and polished front-end user experiences. This role is responsible for building, customizing, and maintaining high-performance WordPress websites. The Developer exercises independent judgment to architect scalable solutions, integrates third-party services, troubleshoots critical issues, and collaborates with marketing and design teams to ensure that digital properties align with business growth objectives and brand standards.
+
+Key Responsibilities
+
+Platform Development & Architecture
+
+Act as the primary technical lead for the WordPress environment, evaluating project requirements to determine optimal themes, plugins, and custom development strategies.
+Build and customize advanced WordPress themes and plugins from the ground up, ensuring code adheres to best practices (WordPress standards, security, version control).
+Exercise independent judgment to architect database schemas, custom post types, and advanced custom fields to support complex content and marketing needs.
+Manage staging and production environments, overseeing seamless deployments and minimizing downtime.
+
+Full Stack Integration & Optimization
+
+Handle the full stack of web development: implement responsive front-end designs using HTML, CSS, and JavaScript, while engineering robust back-end solutions with PHP and MySQL.
+Integrate websites with external APIs, CRM systems (e.g., Salesforce, HubSpot), marketing automation tools, and e-commerce platforms (WooCommerce).
+Collaborate with the marketing team to ensure the website architecture supports SEO strategies, conversion rate optimization, and analytics tracking.
+Identify patterns in site performance or user feedback; provide actionable insights and technical recommendations to the marketing leadership team to improve site speed, user experience, and functionality.
+
+Security, Maintenance & Troubleshooting
+
+Proactively monitor website health, including uptime, security vulnerabilities, and plugin compatibility; implement solutions to mitigate risks before they impact users.
+Anticipate potential technical challenges (e.g., traffic spikes, third-party API changes) and implement scalable solutions to keep initiatives on track.
+Serve as the final escalation point for complex technical issues, performing deep-dive troubleshooting into code conflicts, server errors, or database corruption.
+
+Cross-Functional Collaboration & Project Leadership
+
+Serve as the technical liaison between the marketing team and external vendors or internal stakeholders, translating business needs into technical requirements and vice versa.
+Collaborate with the Project Coordinator and design teams to refine workflows, ensuring that development timelines are realistic and deliverables meet quality standards.
+Provide input into the development roadmap, proposing enhancements to the digital experience platform based on emerging technologies and business needs.
+Represent the technical perspective in internal discussions, helping shape initiatives that support business growth through reliable, high-performing digital tools.
+
+Requirements
+
+Must-Have Qualifications
+
+Background And Education
+
+Minimum of 3 years professional experience in full-stack web development.
+3+ years of hands-on experience with WordPress development, including building custom themes and plugins.
+Proven experience with PHP development in a WordPress context.
+Demonstrated experience integrating third-party APIs and services.
+Bachelor’s degree in Computer Science, Web Development, Information Technology, or a related field (or equivalent professional experience).
+
+Technology Expertise
+
+Core: PHP, MySQL, JavaScript (ES6+), HTML5, CSS3, SASS/LESS.
+WordPress: Advanced Custom Fields, Custom Post Types, REST API, Theme/Plugin Development Hierarchy, Hooks (Actions/Filters).
+Front-End: Modern JavaScript frameworks (e.g., React, Vue.js - preferred), responsive design principles, cross-browser compatibility.
+Tools: Git/GitHub, npm/Webpack, Composer.
+Server/DevOps: Experience with LAMP/LEMP stack management, cPanel, command-line interface, and staging/production workflows.
+
+Competencies
+
+Problem-Solving: Strong analytical skills with the ability to troubleshoot complex issues independently.
+Project Management: Ability to prioritize tasks, manage time effectively, and meet deadlines in a fast-paced environment.
+Communication: Ability to translate technical concepts to non-technical stakeholders and collaborate effectively with cross-functional teams.
+Attention to Detail: Commitment to writing clean, documented, and secure code.
+Strategic Thinking: Ability to look beyond immediate tasks to understand how technical decisions impact long-term business goals.
+
+Physical & Work Environment Requirements
+
+Ability to work for extended periods at a desk using a computer.
+Ability to lift up to 10 pounds if/when necessary.
+Routine use of telephone and email.
+Office-based role with potential travel to conferences, events, and satellite offices as needed.
+
+Benefits
+
+We’re proud to offer a comprehensive benefits package that supports your professional and personal well-being, including:
+
+100% employer-covered medical benefits and HRA account 
+Dental & vision plans 
+Generous PTO + 10 NYSE company holidays per year 
+401K with company match program
+Free onsite parking
+Company-provided laptop and required technology
+Access to an on-site gym (free of charge)
+Weekly vehicle detailing (at additional cost)
+
+Benefits found in job post
+
+401(k)

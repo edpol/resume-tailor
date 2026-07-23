@@ -1,0 +1,66 @@
+
+I have an urgent requirement with one of my clients, details given below. If you find your self suitable for the position, please send me your latest updated resume along with contact details. Please include your employer details as well.
+
+Job Title	Senior PHP Developer Permanent/Full time role
+Project Location	Memphis, TN
+Duration	6 months /Contract
+ 
+Skills Required and Job Description:
+
+Interview mode phone then skype
+Permanent/Full time role 
+Onsite Role 
+Senior PHP Developer
+
+Lokion is seeking an experienced PHP eCommerce Lead Developer to lead development teams in implementing OroCommerce solutions. This role is ideal for someone who enjoys balancing hands-on technical leadership with client-facing collaboration and team management.
+
+Key Responsibilities
+
+Lead the development team through successful OroCommerce implementations.
+Assign tasks, support developers, and conduct code reviews.
+Serve as the technical point of contact for the client.
+Partner closely with the Project Edwardager to communicate status, resolve blockers, and ensure on-time delivery within budgeted hours.
+Collaborate on scoping and estimating new projects.
+Plan and oversee post-launch enhancements and upgrades.
+Required Skills & Experience
+
+At least 1 year of experience leading successful development teams.
+Strong communication skills and ability to work cross-functionally with project managers and clients.
+Languages
+
+PHP, minimum of 3 years
+JavaScript, HTML, CSS, etc.
+SQL
+Frameworks/Libraries:
+
+Symfony
+Composer/flex
+Bootstrap
+jQuery
+SAML 2.0
+eCommerce Platforms:
+
+Minimum of 1 year working on OroCommerce and/or Adobe Commerce / Magento
+Tools:
+
+Git, GitHub
+Docker
+Slack
+Environments:
+
+Linux
+Windows
+Familiarity:
+
+DevOps
+Note: Please note this position is through a Preferred Vendor
+
+Regards,
+Tarun Goyal
+Sr Technical Resource Specialist
+RAMY Infotech Inc.
+consulting redefined
+5201 Great America Parkway Suite 320, Santa Clara CA 95054
+Contact# : 408-317-0856 x 144
+Direct : 408-351-5403
+Fax : 408-273-6834

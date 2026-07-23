@@ -1,0 +1,54 @@
+Job highlights
+Identified by Google from the original job post
+Qualifications
+
+Proficiency in PHP, Laravel, Javascript, and Vue.js
+Knowledgeable about Composer, npm, and package management procedures
+Experience integrating external APIs with the application
+Knowledge of DB transactions/schema etc
+Basic DevOps skills,
+Experience building and interacting with RESTful APIs
+As a bonus: Knowledge of AWS (S3, Lambda) and Laravel Nova
+As a bonus: Experience with Laravel
+As a bonus: Experience using Jira and Bitbucket
+Benefits
+
+Paid Time Off (PTO)
+Flexible schedule
+Responsibilities
+
+You will work as a part of a team responsible for all aspects of the ongoing software and web development from the initial specification to developing, testing, and launching
+Write clean, well-designed code
+Document requirements with detailed specifications
+Troubleshoot, test, and maintain software and databases to ensure robust optimization and functionality
+Contribute in all phases of the development lifecycle, and be able to switch between projects as needed
+Follow industry best practices
+Develop and deploy new features to facilitate related procedures and tools if necessary
+Job description
+Job brief
+
+We are looking for a Full-stack PHP Developer that is dedicated to the craft, writes code that they are proud of, and can hit the ground running. You will work as a part of a team responsible for all aspects of the ongoing software and web development from the initial specification to developing, testing, and launching.
+
+Responsibilities
+• Write clean, well-designed code
+• Document requirements with detailed specifications
+• Troubleshoot, test, and maintain software and databases to ensure robust optimization and functionality
+• Contribute in all phases of the development lifecycle, and be able to switch between projects as needed
+• Follow industry best practices
+• Develop and deploy new features to facilitate related procedures and tools if necessary
+Requirements
+• Proficiency in PHP, Laravel, Javascript, and Vue.js.
+• Knowledgeable about Composer, npm, and package management procedures
+• Experience integrating external APIs with the application.
+• Knowledge of DB transactions/schema etc.
+• Basic DevOps skills,
+• Experience building and interacting with RESTful APIs
+• As a bonus: Knowledge of AWS (S3, Lambda) and Laravel Nova.
+• As a bonus: Experience with Laravel
+• As a bonus: Experience using Jira and Bitbucket
+Who we are
+
+We are Softab. We build progressive websites and apps for multi-diversified brands. We excel in top of the notch websites & applications that are highly functional, unique, and impeccably designed. We strive to create digital experiences that merge creativity with advanced technology that drives results.
+Benefits
+• Paid Time Off (PTO)
+• Flexible schedule

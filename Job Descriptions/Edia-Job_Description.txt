@@ -1,0 +1,91 @@
+Edia
+Senior Backend Engineer
+
+About the job
+About Edia
+
+Our mission is for every child to have an exceptional experience in school.
+
+Edia is a Series A technology startup revolutionizing K-12 education with AI-driven solutions. We develop software to improve math education, tackle chronic absenteeism, and improve intervention processes for school districts. Today, Edia supports 200+ districts across the country (e.g. New York City, Denver, Fulton County, San Francisco, etc.).
+
+About The Role
+
+We're seeking a Senior Backend Engineer to join our team and help scale our Node.js applications on AWS. This role is different from a traditional engineering position: we've fully embraced AI-assisted development, and we expect most code to be written by AI tools. Your job is to direct that process effectively.
+
+You'll work across our entire product suite and internal tools, building robust systems that serve educators and students while also using AI to automate our business operations.
+
+What You'll Do
+
+Architect and oversee backend systems across our product lineup and internal tooling
+Guide AI coding assistants to implement large-scale changes and new features
+Review, debug, and refine AI-generated code to production standards
+Use AI internally to automate business operations
+Ship full-stack features end-to-end
+
+What We're Looking For
+
+Essential skills:
+
+Fast at reading code, human or AI generated
+Strong debugging skills and an eye for bugs
+Capacity to envision large architectural changes and break them into steps an AI can execute
+Ability to context switch and juggle multiple in flight tasks
+Experience with Node.js and cloud infrastructure (AWS, containers, managed databases)
+Comfort working across multiple codebases and problem domains
+
+What sets you apart:
+
+You think at systems scale
+You're effective at communicating intent to AI tools and iterating on their output
+You have good judgment about when to accept AI suggestions and when to push back
+You're comfortable with ambiguity and can take ownership of loosely-defined problems
+
+Nice to have:
+
+Frontend experience (React)—you'll be reading it regardless
+Startup experience
+
+Why This Role Is Different
+
+We're not looking for someone who wants to write every line of code themselves. We're looking for someone who can leverage AI to move faster than traditional development allows, while maintaining the quality and reliability our school district partners depend on. If you're excited about working at the frontier of how software gets built, we'd love to hear from you.
+
+Work Authorization: We are currently unable to sponsor or transfer work authorization for all jobs. If things change in the future, we'll be sure to update this section.
+
+We appreciate your interest in Edia. Feel free to follow us on LinkedIn to learn more about what we're doing to improve education outcomes in the US.
+
+Compensation Range: $180K - $250K
+
+About Edia
+Our mission is for every child to have an exceptional experience in school.
+Edia is a Series A technology startup revolutionizing K-12 education with AI-driven solutions. We develop software to improve math education, tackle chronic absenteeism, and improve intervention processes for school districts. Today, Edia supports 200+ districts across the country (e.g. New York City, Denver, Fulton County, San Francisco, etc.).
+About the Role
+We're seeking a Senior Backend Engineer to join our team and help scale our Node.js applications on AWS. This role is different from a traditional engineering position: we've fully embraced AI-assisted development, and we expect most code to be written by AI tools. Your job is to direct that process effectively.
+
+You'll work across our entire product suite and internal tools, building robust systems that serve educators and students while also using AI to automate our business operations.
+What You'll Do
+Architect and oversee backend systems across our product lineup and internal tooling
+Guide AI coding assistants to implement large-scale changes and new features
+Review, debug, and refine AI-generated code to production standards
+Use AI internally to automate business operations
+Ship full-stack features end-to-end
+What We're Looking For
+
+Essential skills:
+Fast at reading code, human or AI generated
+Strong debugging skills and an eye for bugs
+Capacity to envision large architectural changes and break them into steps an AI can execute
+Ability to context switch and juggle multiple in flight tasks
+Experience with Node.js and cloud infrastructure (AWS, containers, managed databases)
+Comfort working across multiple codebases and problem domains
+What sets you apart:
+You think at systems scale
+You're effective at communicating intent to AI tools and iterating on their output
+You have good judgment about when to accept AI suggestions and when to push back
+You're comfortable with ambiguity and can take ownership of loosely-defined problems
+Nice to have:
+Frontend experience (React)—you'll be reading it regardless
+Startup experience
+Why This Role Is Different
+We're not looking for someone who wants to write every line of code themselves. We're looking for someone who can leverage AI to move faster than traditional development allows, while maintaining the quality and reliability our school district partners depend on. If you're excited about working at the frontier of how software gets built, we'd love to hear from you.
+Work Authorization: We are currently unable to sponsor or transfer work authorization for all jobs. If things change in the future, we'll be sure to update this section.
+We appreciate your interest in Edia. Feel free to follow us on LinkedIn to learn more about what we're doing to improve education outcomes in the US.

@@ -1,0 +1,57 @@
+QBA -- SENIOR PHP DEVELOPER
+Tailored Resume Highlights for Edward Pol
+Date: 2026-06-16
+
+Replace these placeholders in your master Google Doc resume:
+
+---
+
+HIGHLIGHT_1:
+Built and maintained PHP/Laravel applications across 8+ years including at Medical Doctors Research, optimizing AWS EC2 infrastructure and databases to reduce compute costs by 76% while modernizing legacy systems through Lambda automation and MSSQL migration.
+
+---
+
+HIGHLIGHT_2:
+Architected large-scale database migrations from Oracle to AWS MSSQL with zero downtime, and integrated complex AWS infrastructure (Lambda, EventBridge, EC2, RDS) to automate operations and reduce infrastructure overhead, directly applicable to Project Vanguard modernization goals.
+
+---
+
+HIGHLIGHT_3:
+Designed and deployed production Docker-based environments and containerized applications across multiple employers, implementing Nginx SSL configuration and local dev/prod parity, supporting modern deployment pipelines and OS remediation workflows.
+
+---
+
+HIGHLIGHT_4:
+Developed and optimized high-performance SQL queries across MySQL, MSSQL, and Oracle; handled complex data manipulations, joins, and reporting systems serving external partners and internal teams with millions of records.
+
+---
+
+HIGHLIGHT_5:
+Led modernization and legacy application improvements at Inseego through bug fixes, feature additions, and framework updates using PHP and MySQL, partnering with cross-functional teams to enhance application stability and maintainability.
+
+---
+
+INSTRUCTIONS FOR GOOGLE DRIVE:
+
+1. Open your master resume: https://docs.google.com/document/d/15DLEOd_tWSi1OzQLaby-qxXkJxXLH__rXqTmGoPraI0
+2. File > Make a copy → Name it "Edward Pol Resume -- QBA (Tailored)"
+3. Move the copy to your Jobs folder and create a "QBA" subfolder
+4. In the copied document, use Find & Replace (Ctrl+H):
+   - Find "{{HIGHLIGHT_1}}" → Replace with the text above
+   - Find "{{HIGHLIGHT_2}}" → Replace with the text above
+   - Find "{{HIGHLIGHT_3}}" → Replace with the text above
+   - Find "{{HIGHLIGHT_4}}" → Replace with the text above
+   - Find "{{HIGHLIGHT_5}}" → Replace with the text above
+5. Save and verify the formatting matches the original
+
+---
+
+KEY TALKING POINTS FOR THE RECRUITER CALL:
+
+• "I'm proficient in PHP with 8+ years across multiple roles and frameworks. While I'm not CodeIgniter-specific, I've architected with Laravel (same MVC foundation) and am confident in learning CodeIgniter quickly."
+
+• "I have hands-on experience with Docker, EC2, and the AWS ecosystem. ECS/ECR are container orchestration tools I can quickly adopt for your deployment pipeline."
+
+• "I've successfully managed large-scale infrastructure modernization—I led an Oracle-to-MSSQL migration with zero downtime and recently built AWS Lambda automation that cut EC2 costs by 76%. I understand the challenges of modernizing legacy systems while maintaining stability."
+
+• "What's the current PHP version of VetSoft, and what's the timeline for the Vanguard modernization phases?"

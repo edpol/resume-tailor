@@ -72,18 +72,22 @@ Read the JD carefully and identify:
 If the user also provided recruiter notes or requested changes, extract any additional
 signals from those (e.g., "they want to see mentorship", "add PHP version numbers").
 
-### Step 2 -- Fetch the master resume and relevant project summaries
+### Step 2 -- Fetch the master resume and smart-select project summaries
 
+Fetch the master resume:
 ```
 tool: mcp__282d0cdf-c0a5-4c69-a93f-07d03ceb85ed__read_file_content
 args: { "fileId": "15DLEOd_tWSi1OzQLaby-qxXkJxXLH__rXqTmGoPraI0" }
 ```
 
-Then read the 1-2 project summary files most relevant to this JD from
-`{SKILL_DIR}/assets/projects/`. Examples:
-- PHP/e-commerce role: `summary-shore-excursions.md` and `summary-medical-doctors-research.md`
-- Laravel/SaaS role: `summary-insurance-care-direct.md` and `summary-shore-excursions.md`
-- AWS/automation role: `summary-medical-doctors-research.md`
+**Smart project summary selection:** Parse the JD for technology/domain keywords and
+automatically select the 1-2 most relevant project summaries from `{SKILL_DIR}/assets/projects/`:
+- **PHP, Laravel, e-commerce, payments**: `summary-shore-excursions.md` + `summary-medical-doctors-research.md`
+- **AWS, infrastructure, automation, DevOps**: `summary-medical-doctors-research.md`
+- **SaaS, startups, health tech**: `summary-insurance-care-direct.md` + `summary-medical-doctors-research.md`
+- **Freelance, varied tech**: `summary-feeduciary.md`
+
+Only fetch summaries if the master resume lacks detail on those technologies.
 
 > **Note on SKILL_DIR:** The base directory is printed at the top of the skill instructions
 > when it loads. Capture it in bash as:
@@ -132,38 +136,39 @@ Lead with what the JD cares most about.
 
 Do NOT touch anything outside the HIGHLIGHTS section.
 
-### Step 5 -- Save to Google Drive
+### Step 5 -- Save to Google Drive & Present Results
 
-Organize everything in Google Drive automatically:
+Organize and save everything in Google Drive automatically:
 
 1. **Jobs folder** -- ID `1QxNLUAt7--Z65vaUY3w__gbsNdb6i25t` (no search needed)
-2. **Create a company subfolder** named after the company in the JD (title-cased).
-   Search first to avoid duplicates:
+
+2. **Search for existing company subfolder** to avoid duplicates:
    ```
    tool: mcp__282d0cdf-c0a5-4c69-a93f-07d03ceb85ed__search_files
    args: { "query": "title = '<CompanyName>' and parentId = '1QxNLUAt7--Z65vaUY3w__gbsNdb6i25t' and mimeType = 'application/vnd.google-apps.folder'" }
    ```
-3. **Upload the gap analysis** as a Google Doc:
+
+3. **Batch folder creation + resume copy** (run in parallel):
+   - Create the company subfolder (if it doesn't exist)
+   - Copy the master resume to the folder (preserves all formatting)
+   - Title: `Edward Pol Resume -- <Company>`
+
+4. **Replace HIGHLIGHTS placeholders** (batch all 5 `findAndReplaceInDoc` calls in sequence):
+   - Replace {{HIGHLIGHT_1}}, {{HIGHLIGHT_2}}, {{HIGHLIGHT_3}}, {{HIGHLIGHT_4}}, {{HIGHLIGHT_5}} with the rewritten highlights
+   - Use `findAndReplaceInDoc` (NOT `updateGoogleDoc`) — preserves all formatting, fonts, colors, spacing
+   - **DO NOT use `updateGoogleDoc`** as it destroys all formatting
+
+5. **Upload gap analysis** as a Google Doc:
    - Title: `Gap Analysis -- <Company> <Role Title>`
-   - `contentMimeType: text/plain` (Drive auto-converts to Google Doc)
-4. **Upload the tailored resume** as a .docx file:
-   - Title: `Edward Pol Resume -- <Company> (Tailored)`
-   - `contentMimeType: application/vnd.openxmlformats-officedocument.wordprocessingml.document`
-   - Full resume with the rewritten HIGHLIGHTS bullets substituted in, formatted as a Word document
-5. **Upload the job description** as a Google Doc:
+   - Create as .docx with python-docx, then upload with `convertToGoogleFormat: true`
+
+6. **Upload job description** as a Google Doc:
    - Title: `Job Description -- <Company> <Role Title>`
-   - `contentMimeType: text/plain`
+   - Create as .docx with python-docx, then upload with `convertToGoogleFormat: true`
 
-**Note:** The tailored resume is uploaded as a .docx file for easy editing in Word. The gap analysis and job description remain as Google Docs (plain text uploads are fast and reliable).
+7. **Present the result:** Show the user the link to the Google Drive company folder.
 
-### Step 6 -- Present the result
-
-Show the user:
-1. The rewritten HIGHLIGHTS bullets (all 5, formatted cleanly)
-2. A link to the Google Drive company folder
-3. A brief note on the top gap to address before submitting
-
-Ask if they want any adjustments.
+**CRITICAL:** The tailored resume must stay in Google Doc format and match the master resume's exact formatting. Only the HIGHLIGHTS placeholders change.
 
 ## Important guardrails
 

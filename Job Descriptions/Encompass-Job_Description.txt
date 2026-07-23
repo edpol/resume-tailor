@@ -1,0 +1,53 @@
+Encompass
+Senior Full Stack Engineer
+Ft Lauderdale
+
+About the job
+About Encompass
+
+Encompass is a South Florida-based platform company building the operational backbone for a growing national services business. We combine a technology platform, a partner network, and an operations engine — and we’re doing it with a small, high-leverage team that ships fast and hires carefully.
+
+We believe modern engineering has fundamentally changed. AI-assisted development isn’t a novelty — it’s the baseline. The engineers who thrive here are the ones already using those tools to move faster, build more, and focus on the hard parts.
+
+About The Role
+
+We’re hiring a Senior Full Stack Engineer to build the products that keep Encompass moving — from customer-facing features to the internal tools our teams depend on every day. You’ll work end-to-end: data model to UI, backend services to frontend polish, first-draft spec to shipped feature.
+
+Our stack is polyglot on purpose. We reach for React and TypeScript on the frontend, Node and Python and PHP on the backend depending on the problem, and we expect our engineers to be stack-flexible rather than stack-loyal. In a world where AI-assisted development makes learning a new framework a matter of days rather than months, we hire for engineering judgment first and specific stack experience second.
+
+This Role Is For Someone Who
+
+ Has 5+ years of production engineering experience and has personally shipped features across the stack.
+ Uses AI coding tools (Claude Code, Copilot, Cursor, or similar) as a daily driver — not because we said to, but because it’s how they already work.
+ Can ramp into a new language or framework quickly and has opinions about when to reach for which tool.
+ Ships quickly without cutting corners on correctness, testing, or observability.
+ Communicates directly — in pull requests, design docs, and in the room.
+
+What You’ll Do
+
+ Build features end-to-end. From data model through business logic to UI. You’ll scope the work, build it, test it, and roll it out.
+ Work across the stack as the problem requires. Frontend one sprint, a background worker the next, a new PHP integration layer after that. Our engineering team is small and every senior engineer touches multiple surfaces.
+ Move fast with AI tools. We expect you to leverage Claude Code and equivalent tools to accelerate everything — exploration, implementation, testing, and documentation. If you’re more productive without them, that’s fine. If you’ve ignored them and that’s why you’re slow, that’s not.
+ Own quality, not just tickets. This includes writing real tests, thinking about edge cases, monitoring the things you ship, and fixing them when they break.
+ Collaborate in-person. You’ll be in the Fort Lauderdale office three days a week. The other two are yours to organize around deep work. Quarterly planning, cross-team reviews, and onboarding all happen in-person.
+ Mentor lightly. Senior here doesn’t mean “team lead.” But you’ll review junior engineers’ work, pair with them when they’re stuck, and hold a standard for code quality without being a gatekeeper.
+
+What We’re Looking For
+
+Must Have
+
+ 5+ years of production software engineering experience, with meaningful ownership of shipped features in a SaaS or platform environment.
+ Real full-stack fluency. You’ve written backend services, frontend interfaces, and the glue in between. You don’t hide behind a specialization.
+ Modern JavaScript / TypeScript proficiency — React on the frontend, Node on the backend, or equivalent experience with comparable frameworks.
+ Polyglot instincts. You can name a language or framework you learned on the job and shipped with in under a month.
+ Serious use of AI coding tools. Not one-off usage — a demonstrable daily-driver workflow. You’ve formed opinions about where AI tools help and where they hurt.
+ Strong engineering fundamentals. Tests matter, observability matters, security matters, good APIs matter. You’ve been bitten by the absence of these things and changed how you work as a result.
+ Willingness to be in the Fort Lauderdale office 3 days per week. Hybrid is hybrid — if you want fully remote, this isn’t the role.
+
+FLSA Status: Exempt
+
+EEO Classification: First/Mid-Level Officials and Managers
+
+Encompass is an Equal Opportunity Employer committed to diversity and inclusion. Employment decisions are made without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity, or any other protected factor.
+
+See how you compare to others who clicked apply

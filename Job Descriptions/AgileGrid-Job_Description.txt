@@ -1,0 +1,37 @@
+AgileGrid Solutions
+PHP Developer
+About the job
+About The Company
+
+GrabJobs is a dynamic and innovative company dedicated to streamlining the recruitment process through cutting-edge technology solutions. Our platform connects employers with qualified candidates efficiently, providing a seamless hiring experience for businesses across various industries. Committed to fostering growth and excellence, GrabJobs leverages advanced tools and a user-centric approach to revolutionize the way organizations attract and retain talent. We pride ourselves on our collaborative work environment, continuous innovation, and dedication to delivering exceptional value to our clients and users worldwide.
+
+About The Role
+
+We are seeking a skilled and experienced PHP Developer to join our expanding technical team. In this role, you will be instrumental in developing and enhancing our core platform, ensuring it remains reliable, scalable, and feature-rich. Your primary focus will be on creating new functionalities, improving existing modules, and contributing to the overall architecture of our system. Working closely with a team of developers and under the guidance of a Team Lead, you will be responsible for planning, estimating, and executing tasks efficiently while maintaining high standards of code quality. This position offers an excellent opportunity for a motivated professional to grow within a forward-thinking company and take on increasing responsibilities, potentially progressing into a Team Lead role in the future.
+
+Qualifications
+
+The ideal candidate should possess a minimum of five years of full-time development experience, with a strong understanding of object-oriented programming principles. You should have at least three years of hands-on experience working with PHP, specifically PHP 7.0 or higher, and be proficient in developing scalable web applications. Experience with MySQL, including query analysis and optimization, is essential. A basic understanding of front-end technologies such as HTML, CSS, and JavaScript is preferred. Excellent communication skills in English, both written and verbal, are required to collaborate effectively with team members. Candidates with prior experience as a Senior PHP Developer, familiarity with modern PHP frameworks, API integrations, and microservice architecture will be considered advantageous. Remote work experience with a predictable schedule is also a plus.
+
+Responsibilities
+
+Develop new modules and features for the Student Information System (SIS) platform as part of a dedicated team of 2-5 developers, led by a Team Lead.
+Participate in planning and estimating stories to ensure timely delivery of features.
+Prepare detailed technical specifications, estimate project timelines, and manage deadlines effectively.
+Write clean, efficient, and well-documented code following best practices and coding standards.
+Conduct code reviews and participate in testing to ensure high-quality deliverables.
+Collaborate with team members to troubleshoot issues, optimize performance, and implement enhancements.
+Stay updated with industry trends and incorporate new technologies to improve development processes.
+
+Benefits
+
+GrabJobs offers a comprehensive benefits package designed to support our employees' well-being and professional growth. Enjoy the flexibility of remote work with a customizable schedule that promotes work-life balance. We provide paid vacation, holidays, and sick leave to ensure you have adequate time to rest and recharge. As part of our commitment to long-term cooperation, we offer competitive compensation paid in USD, along with performance-based bonuses. Additionally, employees receive licenses for PhpStorm, GitHub Copilot, and Business tools to enhance productivity. There is also significant potential for career advancement, including opportunities to grow into team leadership roles as we expand our technical team.
+
+Equal Opportunity
+
+GrabJobs is an equal opportunity employer committed to fostering an inclusive environment for all employees. We celebrate diversity and do not discriminate based on race, color, religion, gender, sexual orientation, age, national origin, disability, or any other protected characteristic. We believe that a diverse workforce enhances our creativity and innovation, and we are dedicated to providing equal opportunities for growth and development to all team members.
+
+
+
+Desired Skills and Experience
+PHP, Web Development, MySQL, API Integration, Object-Oriented Programming, Software Development

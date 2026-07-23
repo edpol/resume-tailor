@@ -1,0 +1,19 @@
+QBA
+Senior PHP Developer
+
+This is the JD
+The team is seeking a Senior PHP Developer to support a legacy VetSoft application through a major modernization effort. The first phase of the project focuses on security and infrastructure updates, including PHP upgrades, framework and library updates, operating system remediation, and AWS environment improvements as part of Project Vanguard. Once that work is complete, the focus will shift to new feature development, integrations, and ongoing platform enhancements.
+
+The ideal candidate will have strong PHP, AWS, and SQL experience, along with the ability to quickly understand and improve an established application. Experience working in legacy environments and supporting modernization initiatives is highly valued. Familiarity with AI-assisted development tools such as Claude or Cursor is a plus.
+
+
+Top Required Skills
+
+• PHP Development: Strong hands on experience developing and maintaining PHP applications, particularly within legacy environments and framework modernization efforts.
+• CodeIgniter Framework: Experience working with CodeIgniter is highly preferred, as it is the primary framework supporting the application.
+• AWS Infrastructure: Hands on experience with EC2, ECS, ECR, S3, and RDS, including deployment, configuration, and ongoing support.
+• Application Modernization: Experience upgrading PHP versions, updating libraries, managing framework migrations, and addressing security vulnerabilities.
+• SQL and Data Manipulation: Ability to work with complex datasets, joins, reporting queries, and backend data processing requirements.
+• Docker and Operating System Management: Experience updating containerized environments, Docker images, and underlying operating systems.
+This position I am trying to fill for IDEXX Laboratories. And the rate I have $70/hr on W2.
+Can you share your resume for a quick review and a good time to connect with you.

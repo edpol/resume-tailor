@@ -1,0 +1,64 @@
+Valuetainment
+Senior Software Engineer
+
+About the job
+You manage change well. You understand how to navigate when business is transitioning, and you know how to develop solutions to ensure operational and organizational effectiveness. Hello Senior Software Engineer! Join us.
+
+
+The Senior Software Engineer leads software development projects, focusing on design, development, and ensuring the delivery of high-quality, efficient, and secure software. He/She plays a crucial role in shaping the technical direction of projects and guiding junior engineers. This involves not only coding but also contributing to architecture, mentoring team members, and ensuring code quality.
+
+
+Job Responsibilities
+
+Software Design and Development: Designing, developing, and maintaining software applications and systems, often leading the technical design and architecture discussions
+Project Leadership: Taking ownership of software development projects from concept to completion, including planning, execution, and deployment
+Mentorship and Guidance: Providing technical guidance and mentorship to junior engineers, fostering their growth and development
+Code Quality and Review: Ensuring code quality through code reviews, establishing and adhering to coding standards, and optimizing performance
+Technical Expertise: Leveraging deep knowledge of multiple programming languages and technologies to solve complex problems and contribute to architectural decisions
+Collaboration: Working with cross-functional teams, including product managers, designers, and other engineers, to ensure successful project delivery
+Staying Updated: Keeping abreast of new technologies and trends in the software development field to ensure the team is using the latest tools and techniques
+
+
+Job Qualifications
+
+Bachelor's degree in Computer Science, Engineering, or a related field
+10+ years of proven experience as a Full Stack Engineer or in a similar role
+Solid understanding of back-end technologies (Node.js, TypeScript) is required
+Strong proficiency with front-end technologies (HTML, CSS, JavaScript, React, Angular, or Vue.js)
+Experience in actively participating in peer reviews (PR) for native iOS and Android mobile apps
+Open-source knowledge (MCP Supabase) is required
+Foundational understanding of AI (e.g., conversational, generative, automation) is ideal
+Experience with relational and non-relational databases (MySQL, PostgreSQL, MongoDB, etc.) is preferred
+Familiarity with RESTful API design and development is preferred
+Experience with version control systems (Git) is preferred
+Strong problem-solving skills and attention to detail
+Excellent communication and collaboration skills
+Ability to work in a fast-paced, dynamic environment and manage multiple tasks simultaneously
+
+
+Relevant certifications or advanced degrees
+
+Experience with cloud platforms (AWS, Azure, Google Cloud)
+Knowledge of microservices architecture and containerization (Docker, Kubernetes)
+Understanding of agile methodologies and project management tools
+Experience with testing frameworks and tools (Jest, Mocha, Selenium, etc.)
+Familiarity with DevOps practices and CI/CD tools
+Experience with the following is a plus: Push notifications, Email notifications, Payment gateway (PayPal), Digital media experience (audio / video), Deep-linking
+
+
+Compensation: Salary + Performance-Based Bonus, Comprehensive Benefits Package. Final compensation will be determined based on experience and skills and may vary from the range listed above.
+
+
+https://www.youtube.com/c/valuetainment
+
+
+
+Valuetainment is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, religion, color, sex, gender, national origin, age, United States military veteran’s status, ancestry, sexual orientation, marital status, family structure, medical condition including genetic characteristics or information, veteran status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law.
+
+
+Featured benefits
+
+Medical insurance
+Vision insurance
+Dental insurance
+401(k)

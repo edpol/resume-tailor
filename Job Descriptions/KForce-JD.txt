@@ -1,0 +1,43 @@
+Senior Software Engineer PHP
+Kforce Inc · West Palm Beach, FL (Remote)
+
+About the job
+Responsibilities
+
+Kforce has a client that is seeking a Senior Software Engineer PHP in West Palm Beach, FL. Key Responsibilities:
+
+ Design, develop, and maintain high-performance PHP applications serving millions of API requests daily
+ Architect and optimize MySQL database schemas, queries, and indexing strategies for low-latency access
+ Implement and maintain RESTful APIs following modern API design standards, including OpenAPI specifications and versioning best practices
+ Design and implement asynchronous workflows, background jobs, queues, and event-driven integrations where appropriate
+ Participate in architecture discussions, incident response, and root-cause analysis for production issues
+ Collaborate with product and engineering teams to define technical requirements and deliver scalable solutions
+ Conduct code reviews, mentor junior engineers, and champion engineering best practices
+ Write clean, well-tested code with comprehensive unit and integration test coverage
+
+Requirements
+
+ 5+ years of professional software development experience with strong proficiency in modern PHP (PHP 8+) and common frameworks such as Laravel, Symfony, or Slim
+ Deep expertise in MySQL including query optimization and schema design for high-traffic applications
+ Strong experience designing and implementing RESTful APIs using modern standards
+ Experience with Redis for caching, distributed locking, queues, and performance optimization
+ Familiarity with message queues and asynchronous processing systems such as RabbitMQ, Kafka, SQS, or Redis Streams
+ Proficiency with containerization and orchestration technologies such as Docker and Kubernetes
+ Experience with logging, monitoring, tracing, and observability tooling (Datadog, Prometheus, Grafana, OpenTelemetry, etc.)
+ Understanding of API security best practices including OAuth2, JWT, RBAC, rate limiting, and OWASP principles
+ Experience with cloud infrastructure platforms (Vultr, AWS, GCP, or Azure) and infrastructure-as-code tooling
+ Familiarity with CI/CD pipelines, automated testing frameworks, and Git-based development workflows
+ Excellent communication skills and ability to collaborate effectively across distributed teams
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+By clicking “Apply Today” you agree to receive calls, AI-generated calls, text messages or emails from Kforce and its affiliates, and service providers. Note that if you choose to communicate with Kforce via text messaging the frequency may vary, and message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You will always have the right to cease communicating via text by using key words such as STOP.
+

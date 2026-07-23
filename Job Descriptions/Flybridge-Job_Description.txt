@@ -1,0 +1,46 @@
+Flybridge Staffing  
+Sr Software Engineer  
+
+Flybridge Staffing is currently looking for a Senior/ Lead Software Engineer to join a reputable organization in the Boca Raton Area. (Hybrid onsite preferred) This person will focus on our Payment Platform software. The Payments platform manages large-scale funds flow between patients and physicians, and serves as the record system for contracts, pricing, and billing.  
+
+Competitive pay(flexible)  
+Amazing benefits, and corporate Bonus  
+NO SPONSORSHIP AVAILABLE**** US Citizen, GC, only, please.  
+
+Position Summary  
+We are rebuilding the payments integration layer from the ground up. The architecture is anchored on clear, repeatable Azure cloud-native patterns, including being API-first and event-driven. Claude Code is at the center of how we develop: agentic, AI-first engineering where AI tools are the workflow, not just enhanced auto-complete.  
+We’re looking for an engineer who will take ownership of the rebuild and partner across multiple team members to raise the bar on AI-driven development.  
+You’ll design the target-state architecture, build production services, bridge into legacy systems during the transition, and shape how payments software gets built within our growing healthcare company.  
+
+Qualifications  
+BS in Computer Science or related field; 8+ years shipping software at a product or SaaS company.  
+Deep cloud-native experience on Azure (or equivalent depth with commitment to Azure).  
+Polyglot—deeply skilled in at least one language, productive across several.  
+Experience with Azure Cloud Native, Typescript, React, JavaScript, PHP, and Drupal.  
+Experience with SQL, Postgres in Azure, and CosmoDB in Azure is highly preferred.  
+Experience with Salesforce Integrations and Data layer  
+Infrastructure as code (Terraform, Bicep, Pulumi), CI/CD, and modern build/deploy patterns.  
+Event-driven architectures, message queues, and real-time data pipelines in production.  
+Led a meaningful platform rebuild or migration—not just feature work on an existing system.  
+Active, daily use of AI coding tools (Claude Code, Copilot, or similar) as a force multiplier.  
+A builder first. You’d rather write the system than draw the diagram (unless the diagram is a critical input of your /plan). You default to code, not meetings.  
+An engineer who thinks in cloud-native patterns: event-driven architectures, managed services, containers, APIs.  
+The kind of person who’s already using AI tools before anyone on the team has heard of them.  
+Self-directed and accountable professional, yet someone who can collaborate and make people around them feel better.  
+
+Responsibilities:
+Build the New Payments Platform
+· Design and implement cloud-native payment services on Azure, replacing time-based batch syncs with event-driven, real-time pipelines that process member and physician payments with full auditability.
+· Define infrastructure as code patterns, CI/CD pipelines, observability, and testing strategies that establish high standards and patterns applicable across all engineering teams.
+· Build and ship the payments roadmap, continuing our evolution to faster, theme-based release cycles: payments and enrollments, EHR integrations, membership lifecycle, and beyond.
+· Lead research and architecture of future payment system expansion, including real-time payment transaction use cases.
+Bridge Legacy and Modern Systems
+· Build modern customizations and integrations between core systems surgically and strategically, keeping the business running while the transition is in flight.
+· Support and maintain critical legacy touchpoints where needed, with an eye toward replacing them systematically.
+Drive AI-First Engineering Culture
+· Set the patterns for how software is designed, reviewed, and shipped, raising the bar across the team and the wider organization.
+· Champion agentic development practices: Claude Code as the primary development interface, AI-driven code generation, automated testing, and continuous deployment.
+
+****NO SPONSORSHIP AVAILABLE**** US Citizen, GC, only, please.
+
+

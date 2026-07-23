@@ -1,0 +1,58 @@
+Senior Software Engineer
+Hotwire Communications
+Fort Lauderdale, FL
+$116K - $153K/yr
+Full-time
+
+Job description
+The Senior Software Engineer is responsible for designing, building, and scaling enterprise-grade applications across web, API, cloud, and AI platforms. This role combines full-stack development expertise with innovation in AI-driven systems, automation, and real-time digital experiences. The Senior Software Engineer collaborates with cross-functional teams, mentor developers, and drives excellence in modern software architecture.
+
+Duties / Responsibilities:
+
+- Architect, design, and implement scalable REST APIs and event-driven microservices.
+- Lead end-to-end development of web and mobile applications using modern frontend and backend frameworks.
+- Build and integrate AI-powered applications, intelligent bots, and automation workflows.
+- Design, deploy, and maintain cloud-native applications and distributed systems on AWS.
+- Maintain CI/CD pipelines, testing frameworks, and deployment processes with Docker and Kubernetes.
+- Monitor systems to ensure high performance, reliability, and security.
+- Mentor junior developers, review code, and establish engineering best practices.
+- Act as a technical consultant, bridging business needs with scalable technical solutions.
+
+Minimum Qualifications:
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+- 6+ years of professional experience in software engineering, with proven enterprise-level system delivery.
+- Demonstrated ability to design, implement, and scale secure, cloud-native applications.
+- Expertise in building AI-driven solutions, automation workflows, or real-time intelligent systems.
+- Strong foundation in system architecture, performance optimization, and secure coding practices.
+
+Languages & Frameworks
+
+- Java, Node.js, TypeScript, JavaScript, Go, Python, PHP 8 (Laravel), Spring Boot, Angular, React, Next.js
+- Databases & Messaging
+- Oracle, PostgreSQL, MySQL, DynamoDB, Snowflake, ElasticSearch, Redis
+- Kafka, ksqlDB, KStreams, Amazon MSK
+
+Cloud & DevOps
+
+- AWS (Lambda, S3, EC2, MSK, Kinesis, CloudWatch, SNS, SQS)
+- Docker, Kubernetes, Jenkins, GitHub/GitLab CI/CD
+
+AI & Machine Learning
+
+- Generative AI, Prompt Engineering, RAG systems, Document Intelligence
+- HuggingFace API, Voice AI, Conversational AI
+- MCP servers for enterprise integration
+
+Collaboration Tools
+
+- GitHub, GitLab, Bitbucket, Swagger, Postman, JIRA, Confluence
+Preferred Qualifications:
+- Experience with mobile app development (iOS/Android, React Native, or Flutter).
+- Knowledge of observability frameworks and distributed tracing.
+- Contributions to open-source AI or cloud-native projects.
+- Passion for experimenting with emerging AI/ML technologies.
+
+#LI-MC1
+
