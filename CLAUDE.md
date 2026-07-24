@@ -75,8 +75,8 @@ This error has occurred 10+ times. This checklist prevents it from happening aga
 - **Jobs Folder ID**: `1QxNLUAt7--Z65vaUY3w__gbsNdb6i25t` — Where tailored resumes and gap analyses are saved
 
 ## Google Drive Files
-- **Resume-Master** (File ID: `1pX1y3G0RdJ6JNjjHt9EQmcCX4IoDl7e290znPbPJf2c`) — Your complete master resume (Google Doc format)
-- **Resume-Template.docx** (File ID: `1nJgFTIaWUArZnnGltD92JNx8_p8wDDcw`) — Formatting template for tailored resumes
+- **Resume-Master** (File ID: `1pX1y3G0RdJ6JNjjHt9EQmcCX4IoDl7e290znPbPJf2c`) — Master resume content (Google Doc)
+- **Resume-Template.docx** (File ID: `1nJgFTIaWUArZnnGltD92JNx8_p8wDDcw`) — Official formatting template for ALL tailored resumes
 
 ## Local Asset Files
 - `projects/summary-*.md` — Detailed project context for different employers
