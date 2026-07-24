@@ -1,0 +1,60 @@
+Credify Services
+Senior Software Engineer
+
+Full job description
+We are looking to add a Senior Backend / Full Stack Engineer to our talented team of Engineers, with a strong focus on backend architecture and cloud infrastructure.
+
+We are targeting a Senior Engineer who seeks challenges, loves solving complex backend problems, and enjoys architecting scalable systems in a cloud-native environment. If you enjoy working in a startup environment having the ability to wear multiple hats and solving complicated tasks with fresh new ideas, we are the right place for you!
+
+As a Senior Full Stack Engineer with Credify Services, you would work collaboratively with other members of the Development team to design, build, test, deploy, and operate secure, scalable backend systems and supporting infrastructure for the lending industry. You will be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment. We are targeting people with the ability to write clean and functional code and can teach and mentor other engineers. You should have excellent communication skills and the desire to be part of a great team.
+
+Responsibilities include:
+
+Design, develop, and maintain scalable backend services using PHP and Go; contribute to Next.JS and React front-end features when needed.
+Architect distributed systems and cloud-native services running in AWS (ECS, Fargate, EKS, RDS, S3, IAM)
+Apply solid OOP, design patterns, and data structure principles to ensure maintainable code
+Write unit, integration, and system-level tests to guarantee reliability of backend services and infrastructure components.
+Own deployment pipelines, containerization (Docker), and infrastructure configurations to ensure reliable CI/CD and production stability.
+Collaborate on database performance tuning, schema evolution, migrations, and operational SQL optimization.
+Integrate with third-party financial and data services (e.g., credit bureaus, KYC providers, telephony / contact center)
+Build and maintain reusable libraries and components for long-term efficiency
+Optimize backend services, API’s, and database queries for performance, scalability, cost-efficiency, and security.
+Ensure all development follows compliance and security best practices (handling PII, encryption, auditability)
+Collaborate effectively and communicate technical concepts clearly across teams
+Work with stakeholders to deliver solutions for financial systems and lending workflows
+Areas of technical expertise should include:
+
+Languages/Frameworks: PHP, Go (Golang), JavaScript/TypeScript (Next.JS/React), HTML, CSS
+Databases: MySQL and/or Postgres; strong SQL, schema design, query optimization, indexing strategies, and database migration experience
+Cloud/DevOps: AWS (ECS, Fargate, EKS, RDS, S3, IAM, EC2), containerization (Docker), CI/CD pipelines, infrastructure-as-code concepts, Git/GitHub
+Frontend: Working knowledge of Next.JS, React and modern frontend development; ability to contribute to UI features when needed (backend-focused role)
+Systems Architecture: Experience designing API’s, microservices, and event-driven systems in production environments
+Testing: Unit, integration, and functional test automation
+Security/Compliance: Experience building systems that handle sensitive financial/PII data securely
+Experience working with financial systems
+Qualifications:
+
+5+ years of relevant experience
+Bachelor’s degree in computer science or similar or equivalent experience
+Experience:
+
+PHP: 5 years (Required)
+Go: 2+ years (Preferred)
+React: 2+ years (Preferred)
+AWS / Cloud Infrastructure: 3+ years (Required)
+SQL / Relational Databases: 3+ years (Required)
+Financial services: 2 years (Required)
+Job Type: Full-time
+
+Pay: $120,000.00 - $175,000.00 per year
+
+Experience:
+
+SQL: 3 years (Required)
+Go: 2 years (Preferred)
+React: 2 years (Preferred)
+AWS: 3 years (Required)
+PHP: 5 years (Required)
+Financial services: 1 year (Required)
+Work Location: Remote
+
