@@ -37,8 +37,7 @@ A weaker but honest bullet is always better than a strong fabricated one.
 
 Before running `/resume-tailor`, you must:
 - [ ] Have read `/Users/edpol/.claude/projects/-Users-edpol-Documents-Claude-Projects-Resume/memory/resume_format_critical.md` in this conversation
-- [ ] Confirm: Master resume is a Google Doc (File ID: 1pX1y3G0RdJ6JNjjHt9EQmcCX4IoDl7e290znPbPJf2c)
-- [ ] Confirm: Formatting template is Resume-Template.docx from Google Drive
+- [ ] Confirm: Master resume is a Google Doc (File ID: 1MKwQGPBYgMmxR1kEF3cdOMHJQd27nv6WVAbggV8hsHs) - single source of truth for content and format
 - [ ] Confirm: You will use findAndReplaceInDoc to update only the {{HIGHLIGHT_X}} placeholders, preserving all formatting
 - [ ] Confirm: You will show this completed checklist to the user before proceeding with the skill
 
@@ -75,8 +74,7 @@ This error has occurred 10+ times. This checklist prevents it from happening aga
 - **Jobs Folder ID**: `1QxNLUAt7--Z65vaUY3w__gbsNdb6i25t` — Where tailored resumes and gap analyses are saved
 
 ## Google Drive Files
-- **Resume-Master** (File ID: `1pX1y3G0RdJ6JNjjHt9EQmcCX4IoDl7e290znPbPJf2c`) — Master resume content (Google Doc)
-- **Resume-Template.docx** (File ID: `1nJgFTIaWUArZnnGltD92JNx8_p8wDDcw`) — Official formatting template for ALL tailored resumes
+- **Resume-Master** (File ID: `1MKwQGPBYgMmxR1kEF3cdOMHJQd27nv6WVAbggV8hsHs`) — Single source of truth for all resume content and formatting (Google Doc)
 
 ## Local Asset Files
 - `projects/summary-*.md` — Detailed project context for different employers
