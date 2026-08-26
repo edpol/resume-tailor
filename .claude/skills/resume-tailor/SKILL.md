@@ -30,7 +30,7 @@ highlights section and producing a gap analysis, then saving both to Google Driv
 **Master resume** -- stored as a Google Doc in the Jobs folder. Fetch it fresh at the
 start of every run using the Google Drive MCP. It is the source of truth; never modify it.
 
-- **File ID:** `15DLEOd_tWSi1OzQLaby-qxXkJxXLH__rXqTmGoPraI0`
+- **File ID:** `1MKwQGPBYgMmxR1kEF3cdOMHJQd27nv6WVAbggV8hsHs`
 - **Jobs folder ID:** `1QxNLUAt7--Z65vaUY3w__gbsNdb6i25t`
 - **Read tool:** `mcp__282d0cdf-c0a5-4c69-a93f-07d03ceb85ed__read_file_content`
   -- use `fileId` param, returns plain text
@@ -77,7 +77,7 @@ signals from those (e.g., "they want to see mentorship", "add PHP version number
 Fetch the master resume:
 ```
 tool: mcp__282d0cdf-c0a5-4c69-a93f-07d03ceb85ed__read_file_content
-args: { "fileId": "15DLEOd_tWSi1OzQLaby-qxXkJxXLH__rXqTmGoPraI0" }
+args: { "fileId": "1MKwQGPBYgMmxR1kEF3cdOMHJQd27nv6WVAbggV8hsHs" }
 ```
 
 **Smart project summary selection:** Parse the JD for technology/domain keywords and
