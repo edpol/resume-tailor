@@ -41,14 +41,14 @@ The resume structure:
 - A `PROFESSIONAL EXPERIENCE` section with per-job bullets
 - A `SKILLS` line at the bottom
 
-**Project summaries** -- stored in `assets/projects/` as `summary-*.md` files:
-- `summary-shore-excursions.md` -- Shore Excursions Group (2019-2024)
-- `summary-medical-doctors-research.md` -- Medical Doctors Research (2018-2019, 2024-Present)
-- `summary-insurance-care-direct.md` -- Insurance Care Direct (2019)
-- `summary-feeduciary.md` -- Feeduciary.com freelance (2018)
+**Project summaries** -- stored in Google Drive at `Jobs/Project-Context/` as `.md` files:
+- `summary-shore-excursions.md` (ID: 13Nefwa6GImEw_vnmyv8NJMKAZGQ_Th1J) -- Shore Excursions Group (2019-2024)
+- `summary-medical-doctors-research.md` (ID: 1IhL6CJDQ1vlP35oeNgo52V5aB53vVBhi) -- Medical Doctors Research (2018-2019, 2024-Present)
+- `summary-insurance-care-direct.md` (ID: 1eBOEjN2a1F7xRJQpd62ayLgX3s-v5ebC) -- Insurance Care Direct (2019)
+- `summary-feeduciary.md` (ID: 1sFQ8WtBsrIRAVzKDT2S2D_ghop1lPkp6) -- Feeduciary.com freelance (2018)
 
-Read the 1-2 most relevant employer summaries based on the JD to find richer project
-detail, metrics, and technology specifics not fully captured in the resume.
+Fetch the 1-2 most relevant employer summaries from Google Drive based on the JD keywords to find richer project
+detail, metrics, and technology specifics not fully captured in the resume. Use the file IDs above for quick access.
 
 **Recruiter requested changes** -- if the user provides a "requested changes" file or
 notes from a recruiter alongside the JD, treat those as high-priority instructions that
@@ -81,19 +81,13 @@ args: { "fileId": "1MKwQGPBYgMmxR1kEF3cdOMHJQd27nv6WVAbggV8hsHs" }
 ```
 
 **Smart project summary selection:** Parse the JD for technology/domain keywords and
-automatically select the 1-2 most relevant project summaries from `{SKILL_DIR}/assets/projects/`:
-- **PHP, Laravel, e-commerce, payments**: `summary-shore-excursions.md` + `summary-medical-doctors-research.md`
-- **AWS, infrastructure, automation, DevOps**: `summary-medical-doctors-research.md`
-- **SaaS, startups, health tech**: `summary-insurance-care-direct.md` + `summary-medical-doctors-research.md`
-- **Freelance, varied tech**: `summary-feeduciary.md`
+automatically select the 1-2 most relevant project summaries from Google Drive (`Jobs/Project-Context/`):
+- **PHP, Laravel, e-commerce, payments**: shore-excursions + medical-doctors-research
+- **AWS, infrastructure, automation, DevOps**: medical-doctors-research
+- **SaaS, startups, health tech**: insurance-care-direct + medical-doctors-research
+- **Freelance, varied tech**: feeduciary
 
-Only fetch summaries if the master resume lacks detail on those technologies.
-
-> **Note on SKILL_DIR:** The base directory is printed at the top of the skill instructions
-> when it loads. Capture it in bash as:
-> ```bash
-> SKILL_DIR="/var/folders/.../skills/resume-tailor"
-> ```
+Fetch these from Google Drive using the file IDs in the project summaries list above. Only fetch summaries if the master resume lacks detail on those technologies.
 
 ### Step 3 -- Gap analysis (show this to the user)
 
